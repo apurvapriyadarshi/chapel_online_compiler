@@ -2,7 +2,7 @@
 This is code of the website for compiling CHAPEL code online.
 
 
-This project is made for my proposal in GSOC 2016 for CHAPEL.
+This try model is made for my proposal in GSOC 2016 for CHAPEL.
 
 
 It is an website where you can write chapel code and get the output and errors.
